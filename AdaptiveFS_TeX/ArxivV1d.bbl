@@ -1,0 +1,155 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Bal{\i}n \bgroup \em et al.\egroup
+  }{2019}]{balin2019concrete}
+Muhammed~Fatih Bal{\i}n, Abubakar Abid, and James Zou.
+\newblock Concrete autoencoders: Differentiable feature selection and
+  reconstruction.
+\newblock In {\em International Conference on Machine Learning}, pages
+  444--453, 2019.
+
+\bibitem[\protect\citeauthoryear{Blewett \bgroup \em et al.\egroup
+  }{2016}]{blewett2016ipums}
+Lynn~A Blewett, Julia~A Rivera~Drew, Risa Griffin, Miram~L King, and Kari
+  Williams.
+\newblock Ipums health surveys: National health interview survey, version 6.2.
+\newblock {\em Minneapolis: University of Minnesota}, 10:D070, 2016.
+
+\bibitem[\protect\citeauthoryear{Chen and Guestrin}{2016}]{chen2016xgboost}
+Tianqi Chen and Carlos Guestrin.
+\newblock Xgboost: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd acm sigkdd international conference
+  on knowledge discovery and data mining}, pages 785--794, 2016.
+
+\bibitem[\protect\citeauthoryear{Chen \bgroup \em et al.\egroup
+  }{2018}]{chen2018learning}
+Yihong Chen, Bei Chen, Xuguang Duan, Jian-Guang Lou, Yue Wang, Wenwu Zhu, and
+  Yong Cao.
+\newblock Learning-to-ask: Knowledge acquisition via 20 questions.
+\newblock In {\em Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pages 1216--1225, 2018.
+
+\bibitem[\protect\citeauthoryear{Ernst \bgroup \em et al.\egroup
+  }{2005}]{ernst2005tree}
+Damien Ernst, Pierre Geurts, and Louis Wehenkel.
+\newblock Tree-based batch mode reinforcement learning.
+\newblock {\em Journal of Machine Learning Research}, 6(Apr):503--556, 2005.
+
+\bibitem[\protect\citeauthoryear{Hochreiter and
+  Schmidhuber}{1997}]{hochreiter1997long}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem[\protect\citeauthoryear{Hu \bgroup \em et al.\egroup
+  }{2018}]{hu2018playing}
+Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu, and Zhan
+  Chen.
+\newblock Playing 20 question game with policy-based reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1808.07645}, 2018.
+
+\bibitem[\protect\citeauthoryear{Li \bgroup \em et al.\egroup
+  }{2016}]{li2016deep}
+Yifeng Li, Chih-Yu Chen, and Wyeth~W Wasserman.
+\newblock Deep feature selection: theory and application to identify enhancers
+  and promoters.
+\newblock {\em Journal of Computational Biology}, 23(5):322--336, 2016.
+
+\bibitem[\protect\citeauthoryear{Li \bgroup \em et al.\egroup
+  }{2018}]{li2018feature}
+Jundong Li, Kewei Cheng, Suhang Wang, Fred Morstatter, Robert~P Trevino,
+  Jiliang Tang, and Huan Liu.
+\newblock Feature selection: A data perspective.
+\newblock {\em ACM Computing Surveys (CSUR)}, 50(6):94, 2018.
+
+\bibitem[\protect\citeauthoryear{Louizos \bgroup \em et al.\egroup
+  }{2017}]{louizos2017learning}
+Christos Louizos, Max Welling, and Diederik~P Kingma.
+\newblock Learning sparse neural networks through $ l\_0 $ regularization.
+\newblock {\em arXiv preprint arXiv:1712.01312}, 2017.
+
+\bibitem[\protect\citeauthoryear{Lundberg \bgroup \em et al.\egroup
+  }{2018}]{lundberg2018consistent}
+Scott~M Lundberg, Gabriel~G Erion, and Su-In Lee.
+\newblock Consistent individualized feature attribution for tree ensembles.
+\newblock {\em arXiv preprint arXiv:1802.03888}, 2018.
+
+\bibitem[\protect\citeauthoryear{Mnih \bgroup \em et al.\egroup
+  }{2015}]{mnih2015human}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A Rusu, Joel Veness,
+  Marc~G Bellemare, Alex Graves, Martin Riedmiller, Andreas~K Fidjeland, Georg
+  Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533, 2015.
+
+\bibitem[\protect\citeauthoryear{Roy \bgroup \em et al.\egroup
+  }{2015}]{roy2015feature}
+Debaditya Roy, K~Sri~Rama Murty, and C~Krishna Mohan.
+\newblock Feature selection using deep neural networks.
+\newblock In {\em 2015 International Joint Conference on Neural Networks
+  (IJCNN)}, pages 1--6. IEEE, 2015.
+
+\bibitem[\protect\citeauthoryear{Schulman \bgroup \em et al.\egroup
+  }{2017}]{schulman2017proximal}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock {\em arXiv preprint arXiv:1707.06347}, 2017.
+
+\bibitem[\protect\citeauthoryear{Silver \bgroup \em et al.\egroup
+  }{2016}]{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em nature}, 529(7587):484, 2016.
+
+\bibitem[\protect\citeauthoryear{Tibshirani}{1996}]{tibshirani1996regression}
+Robert Tibshirani.
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 58(1):267--288, 1996.
+
+\bibitem[\protect\citeauthoryear{Van~Hasselt \bgroup \em et al.\egroup
+  }{2016}]{van2016deep}
+Hado Van~Hasselt, Arthur Guez, and David Silver.
+\newblock Deep reinforcement learning with double q-learning.
+\newblock In {\em Thirtieth AAAI conference on artificial intelligence}, 2016.
+
+\bibitem[\protect\citeauthoryear{Watkins and Dayan}{1992}]{watkins1992q}
+Christopher~JCH Watkins and Peter Dayan.
+\newblock Q-learning.
+\newblock {\em Machine learning}, 8(3-4):279--292, 1992.
+
+\bibitem[\protect\citeauthoryear{Yamada \bgroup \em et al.\egroup
+  }{2018}]{yamada2018deep}
+Yutaro Yamada, Ofir Lindenbaum, Sahand Negahban, and Yuval Kluger.
+\newblock Deep supervised feature selection using stochastic gates.
+\newblock {\em arXiv preprint arXiv:1810.04247}, 2018.
+
+\bibitem[\protect\citeauthoryear{Zhao and Eskenazi}{2016}]{zhao2016towards}
+Tiancheng Zhao and Maxine Eskenazi.
+\newblock Towards end-to-end learning for dialog state tracking and management
+  using deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1606.02560}, 2016.
+
+\bibitem[\protect\citeauthoryear{Zhao \bgroup \em et al.\egroup
+  }{2015}]{zhao2015heterogeneous}
+Lei Zhao, Qinghua Hu, and Wenwu Wang.
+\newblock Heterogeneous feature selection with multi-modal deep neural networks
+  and sparse group lasso.
+\newblock {\em IEEE Transactions on Multimedia}, 17(11):1936--1948, 2015.
+
+\bibitem[\protect\citeauthoryear{Zheng \bgroup \em et al.\egroup
+  }{2018}]{zheng2018learning}
+Zeyu Zheng, Junhyuk Oh, and Satinder Singh.
+\newblock On learning intrinsic rewards for policy gradient methods.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  4644--4654, 2018.
+  
+\bibitem[\protect\citeauthoryear{Sutton and
+  Barto}{2018}]{sutton2018reinforcement}
+Richard S Sutton and Andrew G Barto.
+\newblock Reinforcement learning: An introduction.
+\newblock {\em MIT press}, 2018.  
+
+\end{thebibliography}
